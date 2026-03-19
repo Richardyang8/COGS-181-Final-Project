@@ -34,7 +34,7 @@ A comprehensive study of character-level recurrent neural networks for text gene
 ## Quick Start (Google Colab)
 
 1. Upload all `.py` files and the notebook to Colab
-2. Set runtime to **GPU** (Runtime → Change runtime type → T4 GPU)
+2. Set runtime to **GPU** 
 3. Run cells sequentially
 
 ## Quick Start (Local/CLI)
